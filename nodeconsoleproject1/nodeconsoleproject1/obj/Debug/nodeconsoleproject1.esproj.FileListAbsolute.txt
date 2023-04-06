@@ -1,0 +1,2 @@
+D:\Program Code\Brainiac\Project-Brainiac\nodeconsoleproject1\nodeconsoleproject1\obj\Debug\nodeconsoleproject1.esproj.SuggestedBindingRedirects.cache
+D:\Program Code\Brainiac\Project-Brainiac\nodeconsoleproject1\nodeconsoleproject1\obj\Debug\nodeconsoleproject1.esproj.CoreCompileInputs.cache
